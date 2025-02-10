@@ -8,3 +8,5 @@ Le modèle de message de commit:
 [issues, etc.]
 
 La pause est bientôt 
+
+Est-ce que je peux récupérer ça directement dans toto ?
