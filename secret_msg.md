@@ -6,3 +6,5 @@ Le modèle de message de commit:
 [infos optionnelles]
 
 [issues, etc.]
+
+La pause est bientôt 
