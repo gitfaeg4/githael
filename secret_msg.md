@@ -13,4 +13,4 @@ Est-ce que je peux récupérer ça directement dans toto ?
 
 Mais non c'est ça le vrai changement !
 
-Vincent arrête de me faire casser mon Git !!
+Vincent me force à mettre le bazar
